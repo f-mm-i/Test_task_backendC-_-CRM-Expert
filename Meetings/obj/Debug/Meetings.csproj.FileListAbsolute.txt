@@ -1,0 +1,7 @@
+C:\Users\qweas\source\repos\Meetings\bin\Debug\Meetings.exe.config
+C:\Users\qweas\source\repos\Meetings\bin\Debug\Meetings.exe
+C:\Users\qweas\source\repos\Meetings\bin\Debug\Meetings.pdb
+C:\Users\qweas\source\repos\Meetings\obj\Debug\Meetings.csproj.AssemblyReference.cache
+C:\Users\qweas\source\repos\Meetings\obj\Debug\Meetings.csproj.CoreCompileInputs.cache
+C:\Users\qweas\source\repos\Meetings\obj\Debug\Meetings.exe
+C:\Users\qweas\source\repos\Meetings\obj\Debug\Meetings.pdb
